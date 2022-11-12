@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rizvee-Hassan-Prito
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on anything realted to ML, Data Science
+- 💞️ I’m looking to collaborate on anything related to ML, Data Science
 - 📫 How to reach me : Email - rhprizveehassanpri@gmail.com
 
 <!---
