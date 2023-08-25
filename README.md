@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rizvee-Hassan-Prito
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning Deep Learning Models
 - 💞️ I’m looking to collaborate on anything related to ML, Data Science
 - 📫 How to reach me : Email - rhprizveehassanpri@gmail.com
 
